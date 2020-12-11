@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
-int main(void) {
+int main(void){
 int i, j, k, y, g, h;
 int N;
 //scanf("%d", &N);
